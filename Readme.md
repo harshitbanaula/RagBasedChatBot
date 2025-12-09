@@ -112,9 +112,9 @@ The app will open in your browser at `http://localhost:8501`
 ## 📁 Project Structure
 
 ```
-rag-chatbot-groq/
+Chatbot_Project/
 │
-├── rag_chatbot.py          # Main Streamlit application
+├── main.py          # Main Streamlit application
 ├── requirements.txt        # Python dependencies
 ├── .env                    # Environment variables (not in git)
 ├── .env.example           # Example environment file
