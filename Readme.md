@@ -2,11 +2,6 @@
 
 A powerful Question-Answering chatbot built with Streamlit, LangChain, and Groq's lightning-fast LLM API. Upload your documents (PDF/TXT) and get instant, accurate answers using Retrieval Augmented Generation (RAG).
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.29.0-FF4B4B.svg)
-![LangChain](https://img.shields.io/badge/LangChain-0.1.0-green.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-
 ## ✨ Features
 
 - 📄 **Multi-Format Support**: Upload PDF and TXT files
