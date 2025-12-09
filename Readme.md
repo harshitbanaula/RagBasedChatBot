@@ -1,19 +1,19 @@
-# 🤖 RAG Q&A Chatbot with Groq API
+# RAG Q&A Chatbot with Groq API
 
 A powerful Question-Answering chatbot built with Streamlit, LangChain, and Groq's lightning-fast LLM API. Upload your documents (PDF/TXT) and get instant, accurate answers using Retrieval Augmented Generation (RAG).
 
-## ✨ Features
+##  Features
 
-- 📄 **Multi-Format Support**: Upload PDF and TXT files
-- 🚀 **Lightning Fast**: Powered by Groq's ultra-fast inference
-- 🔍 **RAG Technology**: Retrieval Augmented Generation for accurate answers
-- 💬 **Interactive Chat UI**: Clean, intuitive Streamlit interface
-- 📚 **Source Citations**: View source chunks for each answer
-- 🎨 **Model Selection**: Choose from multiple Groq models
-- 🔒 **Secure**: API keys stored in .env file
-- 💾 **Persistent Chat**: Maintains conversation history
+-  **Multi-Format Support**: Upload PDF and TXT files
+-  **Lightning Fast**: Powered by Groq's ultra-fast inference
+-  **RAG Technology**: Retrieval Augmented Generation for accurate answers
+-  **Interactive Chat UI**: Clean, intuitive Streamlit interface
+-  **Source Citations**: View source chunks for each answer
+-  **Model Selection**: Choose from multiple Groq models
+-  **Secure**: API keys stored in .env file
+-  **Persistent Chat**: Maintains conversation history
 
-## 🎯 Demo
+##  Demo
 
 ```
 User: What are the working hours mentioned in the document?
@@ -21,13 +21,13 @@ Bot: The standard working hours are 9 AM to 6 PM, Monday through Friday.
      Employees can work remotely up to 3 days per week.
 ```
 
-## 📋 Prerequisites
+##  Prerequisites
 
 - Python 3.8 or higher
 - Groq API Key (Get it from [Groq Console](https://console.groq.com/))
 - Git (for version control)
 
-## 🚀 Installation
+##  Installation
 
 ### 1. Clone the Repository
 
@@ -64,7 +64,7 @@ GROQ_API_KEY=your_groq_api_key_here
 
 Get your API key from [Groq Console](https://console.groq.com/)
 
-## 🎮 Usage
+##  Usage
 
 ### Run the Application
 
@@ -87,7 +87,7 @@ The app will open in your browser at `http://localhost:8501`
    - Upload multiple files at once
 
 3. **Process Documents**
-   - Click "🔄 Process Documents" button
+   - Click " Process Documents" button
    - Wait for processing to complete
 
 4. **Ask Questions**
@@ -95,7 +95,7 @@ The app will open in your browser at `http://localhost:8501`
    - Get instant answers with source citations
    - View source documents in expandable sections
 
-## 🤖 Available Models
+##  Available Models
 
 | Model | Speed | Best For |
 |-------|-------|----------|
@@ -178,32 +178,6 @@ Error: Could not create vector store
 
 **Solution**: Delete `chroma_db/` folder and reprocess documents
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- [Groq](https://groq.com/) for ultra-fast LLM inference
-- [LangChain](https://www.langchain.com/) for RAG framework
-- [Streamlit](https://streamlit.io/) for the web interface
-- [HuggingFace](https://huggingface.co/) for embeddings model
-
-## 📧 Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/yourusername/rag-chatbot-groq](https://github.com/yourusername/rag-chatbot-groq)
 
 ## 🔮 Future Enhancements
 
