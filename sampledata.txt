@@ -1,0 +1,33 @@
+Company Information Document
+
+About TechCorp
+TechCorp is a leading technology company founded in 2010. We specialize in artificial intelligence,
+machine learning, and cloud computing solutions. Our headquarters is located in San Francisco, California.
+
+Our Products
+1. CloudAI Platform - An enterprise AI solution for businesses
+2. DataSync Pro - Real-time data synchronization tool
+3. SecureVault - Encrypted cloud storage service
+
+Company Policies
+
+Working Hours
+Our standard working hours are 9 AM to 6 PM, Monday through Friday.
+Employees can work remotely up to 3 days per week.
+
+Leave Policy
+- Annual Leave: 20 days per year
+- Sick Leave: 10 days per year
+- Parental Leave: 12 weeks paid leave
+
+Benefits
+All full-time employees receive:
+- Health insurance coverage
+- 401(k) retirement plan with company match
+- Professional development budget of $2000 per year
+- Gym membership reimbursement
+
+Contact Information
+Email: info@techcorp.com
+Phone: +1 (555) 123-4567
+Address: 123 Tech Street, San Francisco, CA 94105

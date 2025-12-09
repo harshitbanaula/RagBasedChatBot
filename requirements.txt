@@ -1,0 +1,24 @@
+streamlit==1.29.0
+
+# LangChain Core
+langchain==0.1.0
+langchain-community==0.0.13
+langchain-groq==0.0.1
+
+# Vector Store
+chromadb==0.4.22
+
+# Embeddings / Encoding
+sentence-transformers==2.3.1
+
+# PDF / File Loading
+pypdf==3.17.4
+
+# HuggingFace model support
+huggingface-hub==0.20.2
+transformers==4.36.2
+accelerate==0.25.0     # Important for GPU/CPU optimization
+bitsandbytes==0.41.1   # Optional: required for 4-bit/8-bit quantization
+
+# Environment Variables
+python-dotenv==1.0.0
